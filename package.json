@@ -1,0 +1,25 @@
+{
+  "name": "click-n-mix",
+  "version": "1.0.0",
+  "description": "Cocktail webapp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TwistedSpoon99/click-n-mix.git"
+  },
+  "author": "Michael Dunwoody",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TwistedSpoon99/click-n-mix/issues"
+  },
+  "homepage": "https://github.com/TwistedSpoon99/click-n-mix#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mongojs": "^2.6.0"
+  }
+}
